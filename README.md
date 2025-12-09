@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.png" width="100%" alt="MSI Center BIOS Updater Fix Banner">
+  <img src="Banner.png" width="100%" alt="MSI Center BIOS Updater Fix Banner">
 </p>
 
 # MSI Center BIOS Updater Permanent Fix
